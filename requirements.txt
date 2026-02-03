@@ -2,3 +2,5 @@ fastmcp
 pytest
 langgraph
 langchain-core
+fastapi
+uvicorn
