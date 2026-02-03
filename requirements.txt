@@ -1,2 +1,4 @@
 fastmcp
 pytest
+langgraph
+langchain-core
