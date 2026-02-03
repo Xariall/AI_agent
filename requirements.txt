@@ -4,3 +4,4 @@ langgraph
 langchain-core
 fastapi
 uvicorn
+typing-extensions

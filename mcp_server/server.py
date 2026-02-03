@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import TypedDict
+from typing_extensions import TypedDict
 
 from fastmcp import FastMCP
 
