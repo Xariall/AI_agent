@@ -19,5 +19,3 @@ htmlcov/
 build/
 dist/
 *.egg-info/
-
-data/products.json

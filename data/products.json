@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Смартфон",
+    "price": 85000.0,
+    "category": "Электроника",
+    "in_stock": true
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук ASUS",
+    "price": 175000.0,
+    "category": "Электроника",
+    "in_stock": true
+  },
+  {
+    "id": 3,
+    "name": "Беспроводные наушники",
+    "price": 12800.0,
+    "category": "Электроника",
+    "in_stock": true
+  },
+  {
+    "id": 4,
+    "name": "Механическая клавиатура",
+    "price": 14200.0,
+    "category": "Компьютерные комплектующие",
+    "in_stock": true
+  },
+  {
+    "id": 5,
+    "name": "SSD 2 ТБ",
+    "price": 38500.0,
+    "category": "Компьютерные комплектующие",
+    "in_stock": true
+  },
+  {
+    "id": 6,
+    "name": "Видеокарта RTX 4070",
+    "price": 215000.0,
+    "category": "Компьютерные комплектующие",
+    "in_stock": true
+  },
+  {
+    "id": 7,
+    "name": "Новый товар",
+    "price": 0.0,
+    "category": "Без категории",
+    "in_stock": true
+  },
+  {
+    "id": 8,
+    "name": "Мышка Ryzen",
+    "price": 1500.0,
+    "category": "Электроника",
+    "in_stock": true
+  },
+  {
+    "id": 9,
+    "name": "Мышка Logitech",
+    "price": 2500.0,
+    "category": "Электроника",
+    "in_stock": true
+  },
+  {
+    "id": 10,
+    "name": "Мышка Bloody",
+    "price": 3500.0,
+    "category": "Электроника",
+    "in_stock": true
+  }
+]
